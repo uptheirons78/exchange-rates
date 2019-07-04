@@ -1,4 +1,4 @@
-# Monsters Rolodex
+# Exchange Rates
 
 This project is built for checking current exchange rates directly from the EU Central Bank. I used to great REST API:
 1. [Foreign Exchange API](https://exchangeratesapi.io/);
