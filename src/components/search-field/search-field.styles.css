@@ -1,0 +1,9 @@
+input { /* Stili per il campo di testo e per la textarea */
+  border: 1px solid #323232; /* Bordo */
+  border-radius: 5px;
+  color: #fff; /* Colore del testo */
+  height: 30px; /* Altezza */
+  line-height: 30px; /* Altezza di riga */
+  width: 50%; /* Larghezza */
+  padding: 0 10px; /* Padding */
+}
